@@ -46,7 +46,7 @@ Ce projet simule un environnement bancaire réel pour le pilotage d'une activit�
 ---
 
 ## 🚀 Installation & Utilisation
-1. Télécharger le fichier `Dashboard_Banque.pbix`.
+1. Télécharger le fichier `systeme_core_banking_horizon.pbix`.
 2. Ouvrir avec **Power BI Desktop**.
 3. Les données sources sont disponibles en format CSV dans le dossier `/data`.
 
